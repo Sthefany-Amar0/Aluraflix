@@ -2,3 +2,6 @@ body{
     color:lightskyblue;
     background:black;
 }
+header{
+    border-bottom: solid 2px lightblue;
+}
